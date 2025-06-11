@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/Cberumen51">Programmer</a>, <a href="https://www.linkedin.com/in/cberumen51/"> Cybersecurity/Web Development</a>, </h1>
+<h1>Hi, I'm Christian! 👋 <br/> I am a passionate techy who has dabbled in full stack web development and cyber security, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
