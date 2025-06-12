@@ -1,9 +1,9 @@
-<h1>Hi, I'm Christian! 👋 <br/> I am a passionate techy who has been dabbling in full stack web development and cyber security, </h1>
+<h1>Hi, I'm Christian! 👋 <br/> I am a passionate techy who has been dabbling in full-stack web development and cybersecurity, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - Creating a Live SOC/Honeynet in Azure
+  - Creating a Live SOC/Honeynet in Azure (https://github.com/Cberumen51/Azure-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
